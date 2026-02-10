@@ -67,7 +67,7 @@ const init = function(pageLocID) {
       } else if (size === "thumbnail") {
         return "/images/thumbnails/" + "thumbnail_" + db[loc].fileName;
       } else {
-        console.error("getImgPath(" + loc + ", " + size + ") is having problems.");
+        console.error("getImgPath(" + loc + ", " + size + ", " + db + ") is having problems.");
         return false;
       }
     };

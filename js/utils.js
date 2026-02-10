@@ -12,7 +12,7 @@
         console.log("Requested summation successful.");
         return {resultNum:origVal+addVal, isWithinRange: true};
       } else {
-        console.log("Requested summation using aggregateWithinBounds is out of specified range.");
+        console.error("Requested summation using aggregateWithinBounds is out of specified range.");
         return {resultNum:origVal, isWithinRange: false};
       }
     } else {
