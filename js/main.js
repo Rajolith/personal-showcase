@@ -146,7 +146,7 @@ let imageDB = [
 	}
 
 ];
-//end up duplicate code
+//end of duplicate code
 
 
 
