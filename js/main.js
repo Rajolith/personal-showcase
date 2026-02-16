@@ -331,22 +331,22 @@ const init = function(pageLocID) {
 
 
   switch(pageLocID){
-    case `${window.location.origin}/index.html`:
+    case `${window.location.origin}/personal-showcase/index.html`:
       indexInit();
       break;
-    case `${window.location.origin}/code-things.html`:
+    case `${window.location.origin}/personal-showcase/code-things.html`:
       codeThingsInit();
       break;
-    case `${window.location.origin}/art-things.html`:
+    case `${window.location.origin}/personal-showcase/art-things.html`:
       artThingsInit();
       break;
-    case `${window.location.origin}/voice-overs.html`:
+    case `${window.location.origin}/personal-showcase/voice-overs.html`:
       voiceOversInit();
       break;
-    case `${window.location.origin}/contact.html`:
+    case `${window.location.origin}/personal-showcase/contact.html`:
       contactInit();
       break;
-    case `${window.location.origin}/writing-things.html`:
+    case `${window.location.origin}/personal-showcase/writing-things.html`:
       writingThingsInit();
       break;
   }

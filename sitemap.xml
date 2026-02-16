@@ -6,14 +6,14 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://latentleprechaun.github.io/</loc>
-  <lastmod>2016-07-28</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://rajolith.github.io/personal-showcase/</loc>
+  <lastmod>2026-02-14</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
-  <loc>http://latentleprechaun.github.io/code-things/</loc>
-  <lastmod>2016-07-18</lastmod>
+  <loc>http://rajolith.github.io/personal-showcase/code-things/</loc>
+  <lastmod>2026-02-14</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.4</priority>
 </url>
